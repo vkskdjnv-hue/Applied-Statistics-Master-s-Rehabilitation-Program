@@ -1,6 +1,6 @@
 Hello everyone.
 
-I'm the applied statistics mater who has almost zero work experience after graduated for three years.
+I'm an applied statistics mater who has almost zero work experience after graduated for three years.
 
 In this repository, I record and share a plan I made with chatGpt.
 
